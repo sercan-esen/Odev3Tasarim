@@ -1,0 +1,28 @@
+<resources>
+    <!-- App texts -->
+    <string name="app_name">Kristallon</string>
+    <string name="personal_details">Personal details</string>
+    <string name="edit">Edit</string>
+    <string name="ad_soyad">Sercan Esen</string>
+    <string name="e_mail">sercan1esen@gmail.com</string>
+    <string name="tel_no">+90 553 385 20 35</string>
+    <string name="birthday">14.10.1996</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="notifications">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="payment">Payments</string>
+    <string name="your_orders">Your Orders</string>
+    <string name="fb_refunds">Feedback and Refunds</string>
+    <string name="my_preferences">My Preferences</string>
+    <string name="help">Help</string>
+    <string name="send_fb">Send Feedback</string>
+    <string name="rep_eg">Report an Emergency</string>
+    <string name="rate_ps">Rate us on the Play Store</string>
+    <string name="log_out">Log Out</string>
+    <string name="about">About</string>
+    <string name="update">Update</string>
+    <string name="account">ACCOUNT</string>
+    <string name="empty"> </string>
+
+
+</resources>

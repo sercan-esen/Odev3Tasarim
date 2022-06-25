@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kristallon</string>
+    <string name="personal_details">Kişisel Detaylar</string>
+    <string name="edit">Edit</string>
+    <string name="ad_soyad">Sercan Esen</string>
+    <string name="e_mail">sercan1esen@gmail.com</string>
+    <string name="tel_no">+90 553 385 20 35</string>
+    <string name="birthday">14.10.1996</string>
+    <string name="bookmarks">Yer imleri</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="settings">Ayarlar</string>
+    <string name="payment">Ödeme</string>
+    <string name="your_orders">Siparişlerin</string>
+    <string name="fb_refunds">Geri bildirim ve Geri ödemeler</string>
+    <string name="my_preferences">Tercihlerim</string>
+    <string name="help">Yardım</string>
+    <string name="send_fb">Geri bildirim gönder</string>
+    <string name="rep_eg">Rapor ve Acil durum</string>
+    <string name="rate_ps">Play Storeda bizi puanlayın</string>
+    <string name="log_out">Çıkış</string>
+    <string name="about">Hakkında</string>
+    <string name="update">Güncelleme</string>
+    <string name="account">HESAP</string>
+    <string name="empty"> </string>
+</resources>
